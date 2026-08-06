@@ -1,19 +1,5 @@
 # Hi, I'm Anshul Kumar 
 
-## Why I built this ?
-
-### Situation
-Visual communication is often required to quickly demonstrate complex software projects or personal portfolios to recruiters and stakeholders.
-
-### Task
-I needed a centralized repository to host and stream high-quality introductory video content related to my projects without relying heavily on third-party video platforms.
-
-### Action
-I utilized modern web video standards and optimized video encoding to ensure fast buffering and high resolution. I embedded custom video players with responsive CSS to ensure perfect playback across both desktop and mobile environments.
-
-### Result
-The repository successfully delivers seamless video playback, providing a professional multimedia presentation layer to my technical portfolio.
-
 ---
 
 ### CS Student @ VIT Bhopal | Competitive Programmer | Fitness Enthusiast
@@ -37,3 +23,19 @@ This video covers my journey in Competitive Programming (Codeforces), my develop
 *Thanks for visiting!*
 
 ---
+
+---
+
+## Why I built this ?
+
+### Situation
+Visual communication is often required to quickly demonstrate complex software projects or personal portfolios to recruiters and stakeholders.
+
+### Task
+I needed a centralized repository to host and stream high-quality introductory video content related to my projects without relying heavily on third-party video platforms.
+
+### Action
+I utilized modern web video standards and optimized video encoding to ensure fast buffering and high resolution. I embedded custom video players with responsive CSS to ensure perfect playback across both desktop and mobile environments.
+
+### Result
+The repository successfully delivers seamless video playback, providing a professional multimedia presentation layer to my technical portfolio.
