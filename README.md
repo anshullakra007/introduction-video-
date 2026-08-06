@@ -1,17 +1,17 @@
-# H, I' Aul Ku 👋
-### 🚀 CS Su @ VIT Bl | Cv | F u
+# H, I' Aul Ku 
+###  CS Su @ VIT Bl | Cv | F u
 
 Wl y u y. I blv l—b l lf. 
 
 T v v y uy **Cv (Cf)**, y vl lk **Fuzz**, w y f **MMA & Bybul** y wk .
 
-## 🎥 [Clk H W My Iu V](./.4)
+##  [Clk H W My Iu V](./.4)
 
 > *"T l I l y l I b y ."*
 
 ---
 
-### ⚡ Quk Hl
+###  Quk Hl
 * **bl Slv:** C++, Jv, D Suu & Al.
 * **Dvl:** F, UI D, SQL.
 * **I:** Cv , MMA, Wlf.
